@@ -71,3 +71,4 @@ Analyse the data and bring out few insights on the customer Churn.
 It is advantageous for banks to know what leads a client towards the decision to leave the company.
 Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
 
+![image](https://user-images.githubusercontent.com/129491801/236848931-1a19b7e7-46ad-44ae-bade-ff1c829acf4c.png)
